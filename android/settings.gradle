@@ -1,0 +1,3 @@
+rootProject.name = 'SiddiMarket'
+
+include ':app'
